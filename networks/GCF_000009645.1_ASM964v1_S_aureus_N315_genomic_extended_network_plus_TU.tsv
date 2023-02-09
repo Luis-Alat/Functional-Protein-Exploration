@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 1	WP_000003759.1	WP_000003759.1	Known	Myctu	535	1	F	1_tu
 2	WP_000003759.1	WP_000019734.1	Known	Bacsu	809	1	F	1_tu
 3_new	WP_000003759.1	WP_000989121.1	New	Bacsu	2511	1	NOT_STRAND	NOT_TU_REFER

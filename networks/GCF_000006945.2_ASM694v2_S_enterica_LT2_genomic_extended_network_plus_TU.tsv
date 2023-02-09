@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 1_new	NP_447555.1	NP_447555.1	New	Ecoli	3383	1	NOT_STRAND	NOT_TU_REFER
 2_new	NP_447555.1	NP_460097.1	New	Ecoli	3384	1	F	1_tu
 1758	NP_459045.1	NP_459044.1	Known	Ecoli	2980	1	NOT_STRAND	NOT_TU_REFER

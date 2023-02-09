@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 1_new	NP_064721.1	NP_064721.1	New	Bacsu,Ecoli,Ecoli,Salmon	481,1280,1281,247	3	F	1_tu
 2_new	NP_064721.1	NP_064722.1	New	Bacsu,Ecoli,Ecoli,Salmon	1979,1282,1283,246	3	F	1_tu
 3_new	NP_064721.1	NP_064723.1	New	Ecoli,Ecoli,Salmon	1291,1292,245	2	F	1_tu

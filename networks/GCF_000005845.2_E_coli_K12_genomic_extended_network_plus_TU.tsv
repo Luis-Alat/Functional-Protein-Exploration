@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 2980	NP_414561.1	NP_414560.1	Known	Salmon	1758	1	F	1_tu
 2981	NP_414561.1	NP_414561.1	Known	Salmon	1759	1	F	1_tu
 2986	NP_414561.1	NP_415540.1	Known	NOT_REFR_ORG	NOT_REFR_NUM	NULL	R	2_tu

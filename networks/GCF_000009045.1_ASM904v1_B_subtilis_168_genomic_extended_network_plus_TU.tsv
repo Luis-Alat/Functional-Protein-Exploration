@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 481	NP_387882.1	NP_387882.1	Known	Ecoli,Ecoli,Salmon	1280,1281,247	2	F	1_tu
 1979	NP_387882.1	NP_387883.1	Known	Ecoli,Ecoli,Salmon	1282,1283,246	2	F	2_tu
 3_new	NP_387882.1	NP_387887.1	New	Salmon	244	1	NOT_STRAND	NOT_TU_REFER

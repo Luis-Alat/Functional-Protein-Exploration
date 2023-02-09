@@ -1,3 +1,4 @@
+id_net	tf	tg	status	org_reference	id_net_reference	count_org_reference	string	tu_unit
 1	NP_214515.1	NP_214515.1	Known	NOT_REFR_ORG	NOT_REFR_NUM	NULL	F	1_tu
 2	NP_214515.1	NP_214516.1	Known	NOT_REFR_ORG	NOT_REFR_NUM	NULL	F	2_tu
 3	NP_214515.1	NP_214517.1	Known	NOT_REFR_ORG	NOT_REFR_NUM	NULL	F	2_tu
