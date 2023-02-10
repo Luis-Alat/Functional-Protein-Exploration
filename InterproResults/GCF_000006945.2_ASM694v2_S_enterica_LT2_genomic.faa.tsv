@@ -1,3 +1,4 @@
+id_protein	md5	seq_len	analysis	id_analysis	desc_analysis	start	stop	score	status	date	id_inter	desc_inter	go
 NP_460305.1	44cfa036ca90598059a463ab466dff56	99	SUPERFAMILY	SSF47729	IHF-like DNA-binding proteins	3	93	1.16E-31	T	08-02-2023	IPR010992	Integration host factor (IHF)-like DNA-binding domain superfamily	GO:0003677
 NP_460305.1	44cfa036ca90598059a463ab466dff56	99	Pfam	PF00216	Bacterial DNA-binding protein	3	91	4.9E-30	T	08-02-2023	IPR000119	Histone-like DNA-binding protein	GO:0003677|GO:0030527
 NP_460305.1	44cfa036ca90598059a463ab466dff56	99	PANTHER	PTHR33175	DNA-BINDING PROTEIN HU	1	93	1.3E-30	T	08-02-2023	IPR000119	Histone-like DNA-binding protein	GO:0003677|GO:0030527

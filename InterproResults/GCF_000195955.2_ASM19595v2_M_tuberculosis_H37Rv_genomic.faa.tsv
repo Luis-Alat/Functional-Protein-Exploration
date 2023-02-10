@@ -1,3 +1,4 @@
+id_protein	md5	seq_len	analysis	id_analysis	desc_analysis	start	stop	score	status	date	id_inter	desc_inter	go
 NP_214802.1	50fe7eccf99177b354d5bf9c6db33654	96	SUPERFAMILY	SSF140453	EsxAB dimer-like	2	95	3.92E-21	T	08-02-2023	IPR036689	ESAT-6-like superfamily	-
 NP_214802.1	50fe7eccf99177b354d5bf9c6db33654	96	Pfam	PF06013	Proteins of 100 residues with WXG	3	87	1.7E-16	T	08-02-2023	IPR010310	Type VII secretion system ESAT-6-like	-
 NP_215253.1	8688bb96b235dbfce181644a2bbe63bf	268	Pfam	PF10774	Domain of unknown function (DUF4226)	5	110	4.4E-27	T	08-02-2023	IPR019710	Protein of unknown function DUF4226	-

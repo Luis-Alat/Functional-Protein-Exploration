@@ -1,3 +1,4 @@
+id_protein	md5	seq_len	analysis	id_analysis	desc_analysis	start	stop	score	status	date	id_inter	desc_inter	go
 NP_250241.1	96432ae5ac6425755c608d6b69f709f6	179	Pfam	PF05751	FixH	12	155	1.0E-38	T	08-02-2023	IPR008620	Nitrogen fixation protein FixH	-
 NP_250539.1	c1ae9e400c5ca82f5d8e24fe6312f4da	389	Pfam	PF07690	Major Facilitator Superfamily	252	380	2.3E-12	T	08-02-2023	IPR011701	Major facilitator superfamily	GO:0022857|GO:0055085
 NP_250539.1	c1ae9e400c5ca82f5d8e24fe6312f4da	389	Pfam	PF07690	Major Facilitator Superfamily	11	240	1.2E-9	T	08-02-2023	IPR011701	Major facilitator superfamily	GO:0022857|GO:0055085

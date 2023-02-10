@@ -1,3 +1,4 @@
+id_protein	md5	seq_len	analysis	id_analysis	desc_analysis	start	stop	score	status	date	id_inter	desc_inter	go
 WP_001078461.1	5d63b30974ead7a1fef5ec774264f6f2	336	Pfam	PF02423	Ornithine cyclodeaminase/mu-crystallin family	23	327	3.8E-64	T	08-02-2023	IPR003462	Ornithine cyclodeaminase/mu-crystallin	-
 WP_001078461.1	5d63b30974ead7a1fef5ec774264f6f2	336	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	4	335	7.78E-80	T	08-02-2023	IPR036291	NAD(P)-binding domain superfamily	-
 WP_001078461.1	5d63b30974ead7a1fef5ec774264f6f2	336	PANTHER	PTHR13812	KETIMINE REDUCTASE MU-CRYSTALLIN	5	331	1.4E-59	T	08-02-2023	IPR003462	Ornithine cyclodeaminase/mu-crystallin	-

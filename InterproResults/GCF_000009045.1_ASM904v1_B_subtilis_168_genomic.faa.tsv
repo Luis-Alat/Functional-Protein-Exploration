@@ -1,3 +1,4 @@
+id_protein	md5	seq_len	analysis	id_analysis	desc_analysis	start	stop	score	status	date	id_inter	desc_inter	go
 NP_389445.1	5bbc0913f819f38d27825a9e0a01d5ed	261	Pfam	PF01903	CbiX	10	114	1.3E-28	T	08-02-2023	IPR002762	Sirohydrochlorin cobaltochelatase CbiX-like	GO:0016829
 NP_389445.1	5bbc0913f819f38d27825a9e0a01d5ed	261	Pfam	PF01903	CbiX	134	234	7.2E-22	T	08-02-2023	IPR002762	Sirohydrochlorin cobaltochelatase CbiX-like	GO:0016829
 NP_389445.1	5bbc0913f819f38d27825a9e0a01d5ed	261	PANTHER	PTHR33542	SIROHYDROCHLORIN FERROCHELATASE, CHLOROPLASTIC	2	243	2.4E-52	T	08-02-2023	-	-
