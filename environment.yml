@@ -1,0 +1,8 @@
+name: analyzeNets
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - pandas
+  - numpy
+prefix: /home/lromero/mambaforge/envs/analyzeNets
