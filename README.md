@@ -6,8 +6,6 @@ On the other hand, the genomes fasta files and tsv networks used here can be dow
 
 ---
 
-<br/>
-
 ## Getting started
 
 <br/>
@@ -51,8 +49,6 @@ and one of the following to activate the environment
     mamba activate <name-of-your-environment>
 
 ---
-
-<br/>
 
 ## Contents
 
