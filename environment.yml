@@ -5,4 +5,4 @@ dependencies:
   - jupyterlab
   - pandas
   - numpy
-prefix: /home/lromero/mambaforge/envs/analyzeNets
+prefix:
