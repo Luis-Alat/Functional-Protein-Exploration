@@ -8,8 +8,6 @@ On the other hand, the genomes fasta files and tsv networks used here can be dow
 
 ## Getting started
 
-<br/>
-
 ### Requeriments
 
 Here, the technologies/tools used are the following:
@@ -51,8 +49,6 @@ and one of the following to activate the environment
 ---
 
 ## Contents
-
-<br/>
 
 * CoordinatesNetworks/: Coordinates *x* and *y* from yFiles in CytoScape
 
